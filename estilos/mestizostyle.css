@@ -233,7 +233,7 @@ h2 {
         margin: auto;
     }
 
-    .corpao > img, video {
+    .corpao > img, video, iframe {
         max-width: 70vw;
     }
 }
